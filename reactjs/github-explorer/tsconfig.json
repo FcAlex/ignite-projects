@@ -14,5 +14,5 @@
     "skipDefaultLibCheck": true,
     "skipLibCheck": true
   },
-  "include": ["src"] // informa onde contêm o código ts
+  "include": ["./src"] // informa onde contêm o código ts
 }
