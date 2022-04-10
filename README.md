@@ -1,3 +1,3 @@
 # 🚀 Rocketseat Ignite
 
-Repositório com todas implementações realizadas no curso do Rocketseat, em todas as trilhas
+Aqui estarão todas implementações realizadas nos cursos ou desafios da plataforma Rocketseat, em todas as trilhas.
