@@ -9,3 +9,4 @@ Links dos projetos que serão desenvolvidos.
 ### React
 
 - Desafio 01 - Conceitos do React. [🔗](https://github.com/FcAlex/ignite-projects/tree/main/reactjs/desafio1)
+- Desafio 02 - Componentizando a aplicação. [🔗](https://github.com/FcAlex/ignite-projects/tree/main/reactjs/desafio2)
