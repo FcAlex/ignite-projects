@@ -35,11 +35,11 @@ createServer({
   routes() {
     this.namespace = 'api';
 
-    this.get('/transations', () => {
+    this.get('/transactions', () => {
       return this.schema.all('transaction');
     })
 
-    this.post('/transations', (schema, request) => {
+    this.post('/transactions', (schema, request) => {
       const data = JSON.parse(request.requestBody);
 
       return schema.create('transaction', data);
